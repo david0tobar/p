@@ -1,0 +1,11 @@
+.titulo{
+    border: 15px;
+    border-color: brown;
+}
+body{
+    background-color: aqua;
+    opacity: 0.3;
+}
+.parrafo{
+    background-color: rgb(104, 247, 247);
+}
