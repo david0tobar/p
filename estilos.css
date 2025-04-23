@@ -4,8 +4,12 @@
 }
 body{
     background-color: aqua;
-    opacity: 0.3;
+    
 }
 .parrafo{
     background-color: rgb(104, 247, 247);
+}
+
+.link{
+    color: rgb(255, 0, 0);
 }
